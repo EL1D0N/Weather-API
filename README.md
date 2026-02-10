@@ -4,11 +4,11 @@ A modern React application built with Vite, Tailwind CSS, and Recharts to displa
 
 ## Features
 
-- 🌤️ Real-time weather data from OpenWeatherMap API
-- 📊 Interactive bar chart showing temperature forecasts
-- 🎨 Beautiful UI with Tailwind CSS
-- 📱 Responsive design
-- 🔍 Search weather by city name
+-  Real-time weather data from OpenWeatherMap API
+-  Interactive bar chart showing temperature forecasts
+-  Beautiful UI with Tailwind CSS
+-  Responsive design
+-  Search weather by city name
 
 ## Setup Instructions
 
